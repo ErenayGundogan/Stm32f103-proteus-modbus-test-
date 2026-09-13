@@ -1,0 +1,9 @@
+../Core/Src/main.c:80:5:main	2
+../Core/Src/main.c:151:6:SystemClock_Config	3
+../Core/Src/main.c:191:13:MX_TIM3_Init	4
+../Core/Src/main.c:236:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:269:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:302:13:MX_GPIO_Init	1
+../Core/Src/main.c:341:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:350:7:read_isolation_resistance	5
+../Core/Src/main.c:377:6:Error_Handler	1
